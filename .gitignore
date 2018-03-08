@@ -1,0 +1,5 @@
+AWS_Consts.cs
+*.pdf
+/bin
+/obj
+/.vscode
